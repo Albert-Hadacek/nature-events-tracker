@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nature-events-tracker/static/css/main.291dbbcb.chunk.css",
-    "main.js": "/nature-events-tracker/static/js/main.85707813.chunk.js",
-    "main.js.map": "/nature-events-tracker/static/js/main.85707813.chunk.js.map",
+    "main.js": "/nature-events-tracker/static/js/main.2df2b5bc.chunk.js",
+    "main.js.map": "/nature-events-tracker/static/js/main.2df2b5bc.chunk.js.map",
     "runtime-main.js": "/nature-events-tracker/static/js/runtime-main.7fe68712.js",
     "runtime-main.js.map": "/nature-events-tracker/static/js/runtime-main.7fe68712.js.map",
     "static/css/2.a7b1cd68.chunk.css": "/nature-events-tracker/static/css/2.a7b1cd68.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.a7b1cd68.chunk.css",
     "static/js/2.dd0c3284.chunk.js",
     "static/css/main.291dbbcb.chunk.css",
-    "static/js/main.85707813.chunk.js"
+    "static/js/main.2df2b5bc.chunk.js"
   ]
 }
