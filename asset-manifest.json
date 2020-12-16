@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nature-events-tracker/static/css/main.291dbbcb.chunk.css",
+    "main.js": "/nature-events-tracker/static/js/main.a522546d.chunk.js",
+    "main.js.map": "/nature-events-tracker/static/js/main.a522546d.chunk.js.map",
+    "runtime-main.js": "/nature-events-tracker/static/js/runtime-main.7fe68712.js",
+    "runtime-main.js.map": "/nature-events-tracker/static/js/runtime-main.7fe68712.js.map",
+    "static/css/2.a7b1cd68.chunk.css": "/nature-events-tracker/static/css/2.a7b1cd68.chunk.css",
+    "static/js/2.dd0c3284.chunk.js": "/nature-events-tracker/static/js/2.dd0c3284.chunk.js",
+    "static/js/2.dd0c3284.chunk.js.map": "/nature-events-tracker/static/js/2.dd0c3284.chunk.js.map",
+    "index.html": "/nature-events-tracker/index.html",
+    "static/css/2.a7b1cd68.chunk.css.map": "/nature-events-tracker/static/css/2.a7b1cd68.chunk.css.map",
+    "static/css/main.291dbbcb.chunk.css.map": "/nature-events-tracker/static/css/main.291dbbcb.chunk.css.map",
+    "static/js/2.dd0c3284.chunk.js.LICENSE.txt": "/nature-events-tracker/static/js/2.dd0c3284.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/nature-events-tracker/static/media/lato-latin-900italic.bd29000d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe68712.js",
+    "static/css/2.a7b1cd68.chunk.css",
+    "static/js/2.dd0c3284.chunk.js",
+    "static/css/main.291dbbcb.chunk.css",
+    "static/js/main.a522546d.chunk.js"
+  ]
+}
